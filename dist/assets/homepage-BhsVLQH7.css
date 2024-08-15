@@ -1,0 +1,27 @@
+._layout_g053u_1 {
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  grid-template-rows: 1fr 12fr 50px;
+  .ant-menu-title-content {
+    font-size: 20px;
+    font-weight: bold;
+  }
+}
+
+._header_g053u_12 {
+  background-color: #FFFFFF;
+  padding: 0px 25px;
+}
+
+._content_g053u_17 {
+  background-color: #FFFFFF;
+}
+
+._footer_g053u_21 {
+  text-align: center;
+  padding: 12px 50px;
+  font-size: 16px;
+  font-weight: 500;
+  background-color: #FFFFFF !important;
+}
